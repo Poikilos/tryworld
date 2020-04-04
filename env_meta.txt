@@ -1,0 +1,7 @@
+day_count = 130
+time_of_day = 13973
+lbm_introduction_times_version = 1
+game_time = 139647
+last_clear_objects_time = 0
+lbm_introduction_times = :doors:replace_doors_door_glass~0;:doors:replace_doors_door_obsidian_glass~0;:doors:replace_doors_door_steel~0;:doors:replace_doors_door_wood~0;:doors:replace_doors_japanese_door~0;:doors:replace_doors_prison_door~0;:doors:replace_doors_rusty_prison_door~0;:doors:replace_doors_screen_door~0;:doors:replace_doors_slide_door~0;:doors:replace_doors_woodglass_door~0;anvil:hammer_ejection~0;codersea:map_desert_sand~0;codersea:map_dirt~0;codersea:map_sand~0;codersea:map_water_flowing~0;codersea:map_water_source~0;codersea:reset_materials~0;darkage:convert_cobble_with_plaster~0;decoblocks:3dlantern~0;stained_glass:convert_glass~0;unifiedbricks:convert_brickblocks~0;xpanes:gen2~0;ilights:convert~25989;wine:agave_timer_init~88548;wine:barrel_timer_init~88548;:doors:replace_doors_door_bedroom~93608;:doors:replace_doors_door_concrete~94254;:doors:replace_princess_princess_pink_material_door~136338;:doors:replace_princess_princess_white_material_door~136338;:doors:replace_steampunk_door_iron~136338;:doors:replace_steampunk_door_wood~136338;
+EnvArgsEnd

@@ -1,0 +1,27 @@
+return {
+	["timestamp"] = 1586018784,
+	[1] = {
+		["names"] = {
+			["poikilos"] = true,
+			["poikilos2"] = true,
+			["127.0.0.1"] = true,
+			["singleplayer"] = true,
+		},
+		["record"] = {
+
+		},
+		["last_seen"] = 1586018400,
+		["banned"] = false,
+	},
+	[2] = {
+		["names"] = {
+			["192.168.1.160"] = true,
+			["HenryNautilus"] = true,
+		},
+		["record"] = {
+
+		},
+		["banned"] = false,
+		["last_seen"] = 1562529177,
+	},
+}

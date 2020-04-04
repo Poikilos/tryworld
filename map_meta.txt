@@ -1,0 +1,102 @@
+mgfractal_np_cave1 = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 12
+	offset = 0
+	flags = defaults
+	spread = (61,61,61)
+	seed = 52534
+	octaves = 3
+}
+mgfractal_np_filler_depth = {
+	lacunarity = 2
+	persistence = 0.7
+	scale = 1.2
+	offset = 0
+	flags = defaults
+	spread = (150,150,150)
+	seed = 261
+	octaves = 3
+}
+mgfractal_np_seabed = {
+	lacunarity = 2
+	persistence = 0.6
+	scale = 9
+	offset = -14
+	flags = defaults
+	spread = (600,600,600)
+	seed = 41900
+	octaves = 5
+}
+mgfractal_julia_w = 0.067
+mgfractal_julia_z = 0.133
+mg_flags = caves, dungeons, light, decorations
+mgfractal_dungeon_ymax = 31000
+mg_biome_np_heat_blend = {
+	lacunarity = 2
+	persistence = 1
+	scale = 1.5
+	offset = 0
+	flags = defaults
+	spread = (8,8,8)
+	seed = 13
+	octaves = 2
+}
+seed = 12795054598038255183
+mgfractal_offset = (1.52,0,0)
+mgfractal_julia_y = 0.2
+mgfractal_fractal = 1
+mgfractal_np_cave2 = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 12
+	offset = 0
+	flags = defaults
+	spread = (67,67,67)
+	seed = 10325
+	octaves = 3
+}
+mg_biome_np_humidity = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 50
+	offset = 50
+	flags = defaults
+	spread = (1000,1000,1000)
+	seed = 842
+	octaves = 3
+}
+mg_biome_np_humidity_blend = {
+	lacunarity = 2
+	persistence = 1
+	scale = 1.5
+	offset = 0
+	flags = defaults
+	spread = (8,8,8)
+	seed = 90003
+	octaves = 2
+}
+mgfractal_slice_w = 0
+mg_name = fractal
+water_level = 1
+mgfractal_spflags = 
+mapgen_limit = 31000
+chunksize = 5
+mgfractal_cave_width = 0.09
+mgfractal_lava_depth = -256
+mgfractal_large_cave_depth = -33
+mgfractal_dungeon_ymin = -31000
+mgfractal_iterations = 11
+mgfractal_scale = (4096,1024,4096)
+mg_biome_np_heat = {
+	lacunarity = 2
+	persistence = 0.5
+	scale = 50
+	offset = 50
+	flags = defaults
+	spread = (1000,1000,1000)
+	seed = 5349
+	octaves = 3
+}
+mgfractal_julia_x = 0.267
+[end_of_params]

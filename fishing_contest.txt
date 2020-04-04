@@ -1,0 +1,1 @@
+return {["contest"] = false, ["duration"] = 3600, ["bobber_nb"] = 4}

@@ -1,0 +1,1 @@
+/home/owner/ownCloud/minetest/dump_owners.py
